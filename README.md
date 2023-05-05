@@ -1,3 +1,3 @@
 # projects.x
 Projects
-*codedamn*
+*codedamn* + *others*
